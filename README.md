@@ -33,11 +33,3 @@ The best way to get in touch is by emailing me at **tumblindrew@gmail.com**. I'm
 Let's connect and build something amazing together!
 
 ![Tumblinx's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tumblinx&show_icons=true&theme=radical)
-
-![Metrics](/github-metrics.svg)
-<br/>
-![Achievements](/metrics.plugin.achievements.compact.svg)
-<br/>
-![Calendar](/metrics.plugin.calendar.full.svg)
-<br/>
-![Iso](/metrics.plugin.isocalendar.fullyear.svg)
