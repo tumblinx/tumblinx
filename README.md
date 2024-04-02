@@ -26,6 +26,16 @@ I'm an aspiring Computer Science major at Ohio University, diving deep into the 
 
 The best way to get in touch is by emailing me at **tumblindrew@gmail.com**. I'm always open to discussing new projects, ideas, or just geeking out about the latest in tech.
 
+
+![Metrics](/github-metrics.svg)
+<br/>
+![Achievements](/metrics.plugin.achievements.compact.svg)
+<br/>
+![Calendar](/metrics.plugin.calendar.full.svg)
+<br/>
+![Iso](/metrics.plugin.isocalendar.fullyear.svg)
+
+
 ---
 
 > "The only way to do great work is to love what you do." - Steve Jobs
