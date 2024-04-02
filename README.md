@@ -6,7 +6,7 @@ I'm an aspiring Computer Science major at Ohio University, diving deep into the 
 
 ## 🌐 About Me
 
-- 🤖 **Interests:** Fascinated by all things tech, especially **Networking, Windows Server Administration, Linux, Scripting, and Programming**.
+- 🤖 **Interests:** Fascinated by all things tech, especially **Networking, Server Administration, Linux, Scripting, and Programming**.
 - 🎓 **Education:** Currently honing my skills in **C++** and foundational programming concepts as part of my Computer Science journey.
 - 🚀 **Aspirations:** Dreaming of contributing to groundbreaking projects in **AI, Programming (particularly in C++),** and **Linux** ecosystems.
 
