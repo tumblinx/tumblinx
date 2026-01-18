@@ -1,35 +1,17 @@
-# 👋 Welcome to Tumblinx's Hub!
+# Tumblinx
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tumblinx&color=green)
 
-I'm an aspiring Computer Science major at Ohio University, diving deep into the realms of Technology. My passion lies at the intersection of programming, networking, and system administration, where the magic of connecting the world through code happens.
+I'm a current Computer Science student at Ohio University. I love learning about a lot of different stuff, not just within Computer Science such as physics, math, biology, etc. Pretty much any area within STEM lol.
 
-## 🌐 About Me
+## About me
+My computer science journey started when I was in high school, where I had started studying IT and received a few CompTIA certifications like Network+, Server+, A+, and ITF+. This was a lot of fun and got me excited about the area but I knew I wanted to take it to the next level and dive deeper into how these systems work. This led me here to Ohio University, although the beautiful campus and it's long history also played a huge role in why I came here lol.
 
-- 🤖 **Interests:** Fascinated by all things tech, especially **Networking, Server Administration, Linux, Scripting, and Programming**.
-- 🎓 **Education:** Currently honing my skills in **C++** and foundational programming concepts as part of my Computer Science journey.
-- 🚀 **Aspirations:** Dreaming of contributing to groundbreaking projects in **AI, Programming (particularly in C++),** and **Linux** ecosystems.
+## Current me
+Currently I am in my Junior Year (Spring 2026) and am taking classes in Compilers, Distributed and Parallel computing, Data Communications, Calculus III, and Rome under the Caesars.
 
-## 🌱 I’m currently learning
+In my free time I love tinkering with linux and would love to get more involved in some Open Source projects. 
 
-- **C++:** Mastering advanced concepts and best practices.
-- **System Architecture:** Exploring how large-scale systems are designed and managed.
-- **Open Source Contribution:** Learning the ropes of contributing to open-source projects effectively.
-
-## 💞️ I’m looking to collaborate on
-
-- **AI Projects:** Keen on exploring AI's potential and applying it to real-world problems.
-- **C++ Development:** Interested in both contributing to existing projects and starting new ones.
-- **Linux Initiatives:** Anything that can help me deepen my understanding and practical skills in Linux.
-
-## 📫 How to Reach Me
-
-The best way to get in touch is by emailing me at **tumblindrew@gmail.com**. I'm always open to discussing new projects, ideas, or just geeking out about the latest in tech.
-
----
-
-> "The only way to do great work is to love what you do." - Steve Jobs
-
-Let's connect and build something amazing together!
+If you'd like to work on anything together please just reach out! The best way to get in touch is by emailing me at **tumblindrew@gmail.com**
 
 ![Tumblinx's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tumblinx&show_icons=true&theme=radical)
